@@ -1,0 +1,186 @@
+{
+    "customers" : [
+        {
+            "name":"Maria Figueroa",
+            "car":"Dodge Caravan 2019",
+            "carTag":"MSDSTRG",
+            "nextAppt": "September 27, 2020",
+            "servHistory": "\n - September 20,2020: Flat Tire\n - June 19, 2020: Oil Change"
+        },
+        {
+            "name":"Hannah Montana",
+            "car":"Nissan Maxima 2021",
+            "carTag":"ZH247640",
+            "nextAppt": "September 30, 2020",
+            "servHistory": ""
+        },
+        {
+            "name":"John Fields",
+            "car":"Chevvy 2021",
+            "carTag":"FASTPAS",
+            "nextAppt": "September 27, 2020",
+            "servHistory": "\n - July 07, 2020: Oil Change\n - December 10, 2019: Yearly Maintenance"
+        },
+        {
+            "name":"Anthony Velour",
+            "car":"Mustang 2015",
+            "carTag":"O605EM",
+            "nextAppt": "September 27, 2020",
+            "servHistory": "\n - May 21, 2020: Oil Change"
+        },
+        {
+            "name":"Bill Lecter",
+            "car":"Mustang 1997",
+            "carTag":"BIGBILL",
+            "nextAppt": "October 24, 2020",
+            "servHistory": "\n - May 21, 2020: Oil Change"
+        },
+        {
+            "name":"Leonel Soto",
+            "car":"Ford 2018",
+            "carTag":"805TEF",
+            "nextAppt": "September 29, 2020",
+            "servHistory": "\n - August 01, 2020: System Performance Check"
+        },
+        {
+            "name":"Lester Lopez",
+            "car":"Toyota Camry 2019",
+            "carTag":"CHDZ682",
+            "nextAppt": "September 27, 2020",
+            "servHistory": "\n - January 23, 2020: Oil Change"
+        },
+        {
+            "name":"Don Lechoco",
+            "car":"Honda 2020",
+            "carTag":"5LHY942",
+            "nextAppt": "September 27, 2020",
+            "servHistory": "\n - March 21, 2020: Oil Change\n - November 19, 2019: Oil Change\n - August 22, 2019: Oil Change"
+        },
+        {
+            "name":"David Gonzalez",
+            "car":"Honda 2018",
+            "carTag":"HNY1706",
+            "nextAppt": "September 27, 2020",
+            "servHistory": "\n - July 13, 2020: Yearly Maintenance"
+        },
+        {
+            "name":"Isaac Cepeda",
+            "car":"Chevvy 2020",
+            "carTag":"325J521",
+            "nextAppt": "September 28, 2020",
+            "servHistory": "\n - April 21, 2020: Oil Change"
+        },
+        {
+            "name":"Hannah Fitz",
+            "car":"Nissan 2014",
+            "carTag":"HTK167",
+            "nextAppt": "November 13, 2020",
+            "servHistory": "\n - May 20, 2020: Oil Change"
+        },
+        {
+            "name":"Javier Charles",
+            "car":"Honda 2017",
+            "carTag":"AOR097",
+            "nextAppt": "September 27, 2020",
+            "servHistory": "\n - March 08, 2020: Oil Change"
+        },
+        {
+            "name":"Asami Cheng",
+            "car":"Ford 2018",
+            "carTag":"006M377",
+            "nextAppt": "September 27, 2020",
+            "servHistory": "\n - March 08, 2020: Oil Change"
+        },
+        {
+            "name":"Marco Antonio",
+            "car":"Chevvy 2018",
+            "carTag":"ZG7871S",
+            "nextAppt": "December 01, 2020",
+            "servHistory": "\n - July 22, 2020: Yearly Maintenance"
+        },
+        {
+            "name":"Ashley Track",
+            "car":"Suzuki Bike 2014",
+            "carTag":"U264D",
+            "nextAppt": "September 28, 2020",
+            "servHistory": "\n - April 02, 2020: Oil Change"
+        },
+        {
+            "name":"Karla Lopez",
+            "car":"Nissan 2016",
+            "carTag":"1KRZBUL",
+            "nextAppt": "September 27, 2020",
+            "servHistory": "\n - February 24, 2020: Oil Change"
+        },
+        {
+            "name":"Justin Diaz",
+            "car":"Ford 2018",
+            "carTag":"6142AM9",
+            "nextAppt": "November 10, 2020",
+            "servHistory": "\n - August 13, 2020: Oil Change"
+        },
+        {
+            "name":"Jake Pierre",
+            "car":"Infinity 2010",
+            "carTag":"INTHE6S",
+            "nextAppt": "September 27, 2020",
+            "servHistory": "\n - July 18, 2020: Oil Change\n - September 15, 2019"
+        },
+        {
+            "name":"Carlos Nunez",
+            "car":"Nissan Altima 2019",
+            "carTag":"171NVX75",
+            "nextAppt": "September 27, 2020",
+            "servHistory": "\n - June 11, 2020: Oil Change"
+        },
+        {
+            "name":"Mia Sanchez",
+            "car":"Nissa 2012",
+            "carTag":"59869C2",
+            "nextAppt": "September 27, 2020",
+            "servHistory": "\n - March 10, 2020: Oil Change"
+        },
+        {
+            "name":"Nick Peralta",
+            "car":"Honda 2015",
+            "carTag":"225XIS",
+            "nextAppt": "September 30, 2020",
+            "servHistory": "\n - January 31, 2020: Oil Change"
+        },
+        {
+            "name":"Arya Baker",
+            "car":"Honda 2019",
+            "carTag":"FASTGRL",
+            "nextAppt": "September 27, 2020",
+            "servHistory": "\n - May 09, 2020: Oil Change"
+        },
+        {
+            "name":"Gus Herp",
+            "car":"Porsche 2019",
+            "carTag":"LINEUP",
+            "nextAppt": "September 27, 2020",
+            "servHistory": "\n - April 07, 2020: Oil Change"
+        },
+        {
+            "name":"Gus Herp",
+            "car":"Porsche 2019",
+            "carTag":"AEK2067",
+            "nextAppt": "September 27, 2020",
+            "servHistory": "\n - December 01, 2019: Oil Change"
+        },
+        {
+            "name":"Mario Diaz",
+            "car":"Corvette 2019",
+            "carTag":"NOPL8TE",
+            "nextAppt": "December 21, 2020",
+            "servHistory": "\n - August 07, 2020: Oil Change"
+        },
+        {
+            "name":"Luis Capote",
+            "car":"Honda 2017",
+            "carTag":"HORIZON",
+            "nextAppt": "September 30, 2020",
+            "servHistory": "\n - March 08, 2020: Oil Change"
+        }
+    ]
+}

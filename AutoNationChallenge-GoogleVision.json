@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "autonation-challenge",
+  "private_key_id": "e286e34e184c4d5b35e7ab60a82aa89f13fa7365",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCbiBpyrTKvY0KH\nrMU1XrlxtD7FaCYy9Q/PdsEk1sGSpT0og7t2JInFW/QiyKp7wDjn36G0OojVrcC/\nm5pZ9Agg+N90swqsWB7M2CXHeoo3zneX2nCdMKOQqA/EkzjPINz4C4LqURwQRKj6\nvA232ELgPqyo9ocScUyuGIAfEl2umIGFEtlRLr3xc4CLnyHu9C6Ns8M7H+49/Ymv\nNv/aiYhZsy4Po9LLuYosLQnwuk136P+FMxpPkRYTxYD65viFDYtiukNu8NmAqoK7\n+MP5z0rzEmaDrEuZ2C/31WquVhf203wgmrBtDxTe2cgx7It5k35SzRu2mCwRRDS/\nlL3FaETbAgMBAAECggEABMFWQsOAUmVbhGBrFsfSuUuzCijNei8BM76KBtiWECgD\nLa1LlMuVX3wv+ArU8hjute1EuWYG77ahcWMCnhtzq88hlpkwOeWhpOXdz6biSyNq\nnqV9jNr3klt7QKlxeJGNp0GgqYJCQAha1BNSjvWWXdrPnG1q+imljHEb3suxl4+R\nXXfZIIWFUGsboLihur6BcrbNp2Nn57/I+tzJ6CXHJmln6WNdByC42PQcVQ82yDpN\ndxNzr+Lsn8/r+bZ3BQxDFwK3dgZnQRr/FMws+8uluhESytc7mSZodG4AGjSWygJu\ndsFxOnmFrxrwcf8culsR8uQsRG1Ehf+Bnq5iNgW44QKBgQDIIdnw2wcNFxcFBEvF\n4KcFhkQ4vNBIscbNkeB9+9L61veG+KVlaDU7QXWfXJSBuYDeFT84GJlP3fUDVPq0\niFRoEt/S8SOFYEdWGP2la1Y4KtpeFmID90hBbaszhhGOTlG38bohlYrsloaVMchd\nFIDOZ0ftsDlvLgSY1OtEZXAKKwKBgQDG8vBVO4uz80RyHooQvpUxg7o/DfdHe8ig\nhzlZV75vnQcDnaGhcPPBMGYEye9vnhJ5+XJaDAgNCRv6kI27k5Xqhw883LYt/Qvv\ngvAdA/TdsWL6mtEPGo2W81v8egc/YBWMsuzfIiZBXB4/QCv2pHf8l/u2AMjkH4Nw\n/OiFXhLIEQKBgAeFdipeIOq2BnBy0+Iw6jYD8MZtGirRO5Z4OAakEy7IK29QIu8n\ntnBuqlv937rsXNJ72+9gxUpCHjYs2Gs2gG2U4AKOe3ZEwwmSUN4Jpajgu2ozzyU1\nAusqkveRv1Eo0ltmY0dl1l3D3nT29P/CiIC5UvO03sO16AhSYDEm2soXAoGAfz2D\nPk/uIrI0lXQ4w0rQ6rEgHhHVlE9z2k+B+0UmFAZvJP3dEP7Ht0g4B1oLm+ySTpae\nbz8Aqy2nSlLHgy96E1w7/6X9kl4kExRAc55DLsKz1inMCYfnBKMyssBtADh4r9sD\nqhYSN30uDzAAric0YkXmA9puoZASJeJq6FlpU7ECgYBBpuWGurmeU43bZZloWQeU\nDxSZhUlS0QbMSRNYr6fkomxxWib864rM8FXLD+vT6rpMfl4GdB6lXYvmR8hbngE5\nnXSjCvcKXkFQJrIRSlQfCrAhN2B0bNjhdntMtWT7qoo7n7FZAzIkYWqTbTfB/1L4\nJo147LGMrofSqilAo4l/Ew==\n-----END PRIVATE KEY-----\n",
+  "client_email": "license-identification@autonation-challenge.iam.gserviceaccount.com",
+  "client_id": "114612792490395067868",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/license-identification%40autonation-challenge.iam.gserviceaccount.com"
+}
