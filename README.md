@@ -13,7 +13,7 @@ AutoNation License Plate Detection Challenge:
 ## Requirements:
 - Needs a virtual environment with Python 3.8
 - In this environment run this line in the command prompt/terminal: pip install google-cloud-vision
--Files should be kept in same order, at the base folder of the virtual environment.
+- Files should be kept in same order, at the base folder of the virtual environment.
 
 ## Encountered Challenges / Solutions
 - Challenge #1:
