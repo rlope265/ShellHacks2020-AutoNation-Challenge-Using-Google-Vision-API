@@ -10,6 +10,7 @@ AutoNation License Plate Detection Challenge:
 
 Challenge #1:
 - Sometimes Google Vision wouldn't detect the license plate as an object if the car is too far out or if there are other objects in the picture.
+
 Solution:
 - I created a function to detect the car as a whole and crop out that part of the picture and ran it again to detect the license plate.
 
