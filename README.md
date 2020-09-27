@@ -17,13 +17,13 @@ AutoNation License Plate Detection Challenge:
 
 ## Encountered Challenges / Solutions
 - Challenge #1:
-  Sometimes Google Vision wouldn't detect the license plate as an object if the car is too far out or if there are other objects in the picture.
+  Sometimes Google Vision wouldn't detect the license plate as an object if the car was too far out or if there were other objects in the picture.
   
   Solution:
   I created a function to detect the car as a whole and crop out that part of the picture and ran it again to detect the license plate.
 
 - Challenge #2:
-  When trying to extract the text in the license plate, it would sometime includes data such as the State, or a sticket that it would have.
+  When trying to extract the text in the license plate, it would sometime includes data such as the State, or a sticker that it would have.
   
   Solution:
-  Found the text block with the largest letter height, and infered that as the license tag.
+  Found the text block with the largest letter height, and inferred that as the license tag.
